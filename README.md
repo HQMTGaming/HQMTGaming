@@ -48,7 +48,7 @@
 <br />
 <br />
 
-![](https://discord.c99.nl/widget/theme-3/1015763488938938388.png)
+![](https://discord.c99.nl/widget/theme-1/1015763488938938388.png)
 
 ---
 
