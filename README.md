@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+HQMT+👋)](https://hqmt.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+HQMT+👋)](https://hqmt.io.vn/)
 <p align="center">
   <img align="right" width="64" src="https://github.com/HQMTGaming.png" />
   <h3 align="center">A passionate developer from Vietnam 💎 </h3>
