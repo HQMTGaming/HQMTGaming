@@ -29,7 +29,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   </a>
-  <a href="mailto:hoangquocminhthien@gmail.com" alt="Email">
+  <a href="mailto:minhthien@hqmt.io.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
